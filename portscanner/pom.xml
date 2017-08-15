@@ -6,7 +6,7 @@
   <name>PortScanner</name>
   
   
-  <!-- Set the target jre to 1.7 -->
+  <!-- Set the target jre to 1.8 -->
   <properties>
   	<maven.compiler.target>1.8</maven.compiler.target>
   	<maven.compiler.source>1.8</maven.compiler.source>
